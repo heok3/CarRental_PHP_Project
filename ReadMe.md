@@ -1,5 +1,3 @@
-Hosting : https://heok.ipd20.com/
-
 *Project start Date : Apr 29, 2020
 *Team :	Donghyeok Seo (me)
 	Wei Wang
